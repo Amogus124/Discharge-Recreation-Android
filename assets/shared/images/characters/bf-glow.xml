@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+-<TextureAtlas imagePath="soulbf2.png">
+
+<!-- Created with Adobe Animate version 21.0.7.42652 -->
+
+
+<!-- http://www.adobe.com/products/animate.html -->
+
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="0" frameX="-1" height="561" width="546" y="0" x="0" name="Soul BF idle dance0000"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-15" frameX="-1" height="560" width="548" y="0" x="546" name="Soul BF idle dance0001"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-15" frameX="-1" height="560" width="548" y="0" x="546" name="Soul BF idle dance0002"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-26" frameX="0" height="558" width="549" y="0" x="1094" name="Soul BF idle dance0003"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-26" frameX="0" height="558" width="549" y="0" x="1094" name="Soul BF idle dance0004"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-28" frameX="0" height="558" width="549" y="0" x="1643" name="Soul BF idle dance0005"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-28" frameX="0" height="558" width="549" y="0" x="1643" name="Soul BF idle dance0006"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-21" frameX="-1" height="560" width="548" y="0" x="2192" name="Soul BF idle dance0007"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-21" frameX="-1" height="560" width="548" y="0" x="2192" name="Soul BF idle dance0008"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-8" frameX="-6" height="562" width="543" y="0" x="2740" name="Soul BF idle dance0009"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-8" frameX="-6" height="562" width="543" y="0" x="2740" name="Soul BF idle dance0010"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-1" frameX="-5" height="564" width="543" y="0" x="3283" name="Soul BF idle dance0011"/>
+
+<SubTexture frameHeight="586" frameWidth="549" frameY="-1" frameX="-5" height="564" width="543" y="0" x="3283" name="Soul BF idle dance0012"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="0" frameX="-19" height="554" width="487" y="564" x="0" name="Soul BF Sing Note LEFT0000"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="0" frameX="-19" height="554" width="487" y="564" x="0" name="Soul BF Sing Note LEFT0001"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="0" frameX="-19" height="554" width="487" y="564" x="0" name="Soul BF Sing Note LEFT0002"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0003"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0004"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0005"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0006"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0007"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0008"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0009"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0010"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0011"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0012"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0013"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0014"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0015"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0016"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0017"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0018"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0019"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0020"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0021"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0022"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0023"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0024"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0025"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0026"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0027"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0028"/>
+
+<SubTexture frameHeight="554" frameWidth="506" frameY="-4" frameX="0" height="546" width="486" y="564" x="487" name="Soul BF Sing Note LEFT0029"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="0" frameX="-2" height="584" width="590" y="564" x="973" name="Soul BF Sing Note DOWN0000"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="0" frameX="-2" height="584" width="590" y="564" x="973" name="Soul BF Sing Note DOWN0001"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="0" frameX="-2" height="584" width="590" y="564" x="973" name="Soul BF Sing Note DOWN0002"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0003"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0004"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0005"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0006"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0007"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0008"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0009"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0010"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0011"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0012"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0013"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0014"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0015"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0016"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0017"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0018"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0019"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0020"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0021"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0022"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0023"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0024"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0025"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0026"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0027"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0028"/>
+
+<SubTexture frameHeight="590" frameWidth="592" frameY="-5" frameX="0" height="585" width="583" y="564" x="1563" name="Soul BF Sing Note DOWN0029"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="0" frameX="0" height="556" width="614" y="564" x="2146" name="Soul BF Sing Note RIGHT0000"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="0" frameX="0" height="556" width="614" y="564" x="2146" name="Soul BF Sing Note RIGHT0001"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="0" frameX="0" height="556" width="614" y="564" x="2146" name="Soul BF Sing Note RIGHT0002"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0003"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0004"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0005"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0006"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0007"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0008"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0009"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0010"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0011"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0012"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0013"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0014"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0015"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0016"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0017"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0018"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0019"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0020"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0021"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0022"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0023"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0024"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0025"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0026"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0027"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0028"/>
+
+<SubTexture frameHeight="560" frameWidth="621" frameY="-11" frameX="-36" height="549" width="585" y="564" x="2760" name="Soul BF Sing Note RIGHT0029"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="-13" frameX="0" height="602" width="430" y="564" x="3345" name="Soul BF Sing Note UP0000"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="-13" frameX="0" height="602" width="430" y="564" x="3345" name="Soul BF Sing Note UP0001"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="-13" frameX="0" height="602" width="430" y="564" x="3345" name="Soul BF Sing Note UP0002"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0003"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0004"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0005"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0006"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0007"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0008"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0009"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0010"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0011"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0012"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0013"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0014"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0015"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0016"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0017"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0018"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0019"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0020"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0021"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0022"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0023"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0024"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0025"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0026"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0027"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0028"/>
+
+<SubTexture frameHeight="615" frameWidth="442" frameY="0" frameX="-6" height="608" width="436" y="1166" x="0" name="Soul BF Sing Note UP0029"/>
+
+</TextureAtlas>
