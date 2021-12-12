@@ -101,7 +101,7 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/bf-Pixel3",
+	"image": "pixelChar/bf-Pixel3",
 	"position": [
 		0,
 		350
