@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-140,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mom-final Idle"
+		},
+		{
+			"offsets": [
+				-90,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mom-final Pose Left"
+		},
+		{
+			"offsets": [
+				-150,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mom-final Left Pose"
+		},
+		{
+			"offsets": [
+				-110,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mom-final DOWN POSE"
+		},
+		{
+			"offsets": [
+				-236,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mom-final Up Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mom4",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mom4",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
