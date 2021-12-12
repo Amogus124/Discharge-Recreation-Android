@@ -1,22 +1,57 @@
 {
-	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+	"storyName": "dead pixels",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
 	"weekCharacters": [
 		"senpai",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "school",
-
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
-	"weekName": "Week 6",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"senpai-remix",
+			"senpai",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dead-pixel",
+			"senpai",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"treacherous-thorns",
+			"senpai",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"roots",
+			"spirit-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week"
 }

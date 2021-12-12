@@ -1,22 +1,48 @@
 {
-	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+	"storyName": "Evil BF",
+	"hideFreeplay": false,
+	"weekBackground": "evil",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"parents-christmas",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "christmas",
-
-	"storyName": "RED SNOW",
-	"weekBefore": "week4",
-	"weekName": "Week 5",
+	"weekBefore": "week1",
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"evil bf",
+		"",
+		"bf-c"
+	],
+	"songs": [
+		[
+			"Tormentor",
+			"bf-soul",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"neuroses",
+			"bf-soul",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Discharge",
+			"bf-gone",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week"
 }

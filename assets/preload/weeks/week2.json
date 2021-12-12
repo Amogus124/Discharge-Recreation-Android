@@ -1,22 +1,48 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "good times must end",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"spooky",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"spooky",
+			"spooky1",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sanguine-south",
+			"spooky2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"chiller",
+			"spooky3",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week"
 }

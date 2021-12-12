@@ -1,22 +1,48 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "must murder mommy",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-	
+	"startUnlocked": true,
+	"songs": [
+		[
+			"matricidal",
+			"mom1",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"milk",
+			"mom2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"schizophrenzy",
+			"mom3",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"mom",
-		"bf",
-		"gf"
+		"pico",
+		""
 	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week"
 }
